@@ -28,4 +28,5 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 ## Teams & Carrer path
 - [It’s the coordination, stupid](https://medium.com/dev-genius/its-the-coordination-stupid-f3581bbf25cd) by [Javier Lopez](https://twitter.com/javisan81)
 - [Talking with Tech Leads](https://www.goodreads.com/book/show/23270194-talking-with-tech-leads) by [Pat Kua](https://twitter.com/patkua)
+- [Mistakes and Discoveries While Cultivating Ownership](https://www.infoq.com/presentations/netflix-five-level-ownership/) by [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
 
