@@ -14,6 +14,10 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 - [Software modernisation](https://www.youtube.com/watch?v=ODEFcgqiGpY) by [Sandro Mancuso](https://twitter.com/sandromancuso)
 - [What is Software Modernisation and why do you want to do it?](https://codurance.com/2020/05/05/what-is-software-modernisation/) by [Mashooq Badar](https://twitter.com/mashooq)
 
+## Best practices
+- [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) by [Uncle Bob](https://twitter.com/unclebobmartin)
+- [The Clean coder](https://www.goodreads.com/book/show/10284614-the-clean-coder) by [Uncle Bob](https://twitter.com/unclebobmartin)
+
 ## CI/CD
 - [Continuous Compliance](http://www.davefarley.net/?p=285) by [Dave Farley](https://twitter.com/davefarley77)
 
