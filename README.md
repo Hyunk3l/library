@@ -11,6 +11,8 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 
 ## Architecture
 - [Component based architecture](https://medium.com/omarelgabrys-blog/component-based-architecture-3c3c23c7e348) by [Omar Elgabry](https://medium.com/@OmarElGabry)
+- [Software modernisation](https://www.youtube.com/watch?v=ODEFcgqiGpY) by [Sandro Mancuso](https://twitter.com/sandromancuso)
+- [What is Software Modernisation and why do you want to do it?](https://codurance.com/2020/05/05/what-is-software-modernisation/) by [Mashooq Badar](https://twitter.com/mashooq)
 
 ## CI/CD
 - [Continuous Compliance](http://www.davefarley.net/?p=285) by [Dave Farley](https://twitter.com/davefarley77)
