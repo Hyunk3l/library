@@ -1,14 +1,6 @@
 # library
 Collection of books, talks and blog posts I've read and I think are worth sharing
 
-
-## Microservices
-- [Distributed Monolith vs. Microservices Architecture: 4 Ways New Relic Can Tell You Which Is Which](https://blog.newrelic.com/engineering/distributed-monolith-vs-microservices/) by [Chris McCarthy](https://blog.newrelic.com/author/chrismccarthy/)
-- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices) by [Sam Newman](https://twitter.com/samnewman)
-- [Monolith to Microservices](https://www.goodreads.com/book/show/44144499-monolith-to-microservices) by [Sam Newman](https://twitter.com/samnewman)
-- [Microservices Patterns](https://www.goodreads.com/book/show/34372564-microservice-patterns) by [Chris Richardson](https://twitter.com/crichardson)
-- [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc) by [Nick Tune](https://twitter.com/ntcoding)
-
 ## Architecture
 - [Component based architecture](https://medium.com/omarelgabrys-blog/component-based-architecture-3c3c23c7e348) by [Omar Elgabry](https://medium.com/@OmarElGabry)
 - [Software modernisation](https://www.youtube.com/watch?v=ODEFcgqiGpY) by [Sandro Mancuso](https://twitter.com/sandromancuso)
@@ -30,6 +22,13 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 ](https://medium.com/nick-tune-tech-strategy-blog/ddd-pattern-library-contexts-d6ae81f462ef) by [Nick Tune](https://twitter.com/ntcoding)
 - [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) by [Nick Tune](https://twitter.com/ntcoding)
 - [Strategic DDD Remote Collaboration Toolkit](https://medium.com/nick-tune-tech-strategy-blog/strategic-ddd-remote-collaboration-toolkit-ab3176f878aa) by [Nick Tune](https://twitter.com/ntcoding)
+
+## Microservices
+- [Distributed Monolith vs. Microservices Architecture: 4 Ways New Relic Can Tell You Which Is Which](https://blog.newrelic.com/engineering/distributed-monolith-vs-microservices/) by [Chris McCarthy](https://blog.newrelic.com/author/chrismccarthy/)
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices) by [Sam Newman](https://twitter.com/samnewman)
+- [Monolith to Microservices](https://www.goodreads.com/book/show/44144499-monolith-to-microservices) by [Sam Newman](https://twitter.com/samnewman)
+- [Microservices Patterns](https://www.goodreads.com/book/show/34372564-microservice-patterns) by [Chris Richardson](https://twitter.com/crichardson)
+- [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc) by [Nick Tune](https://twitter.com/ntcoding)
 
 ## Teams & Carrer path
 - [It’s the coordination, stupid](https://medium.com/dev-genius/its-the-coordination-stupid-f3581bbf25cd) by [Javier Lopez](https://twitter.com/javisan81)
