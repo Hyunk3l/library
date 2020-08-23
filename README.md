@@ -4,7 +4,7 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 
 ## Microservices
 - [Distributed Monolith vs. Microservices Architecture: 4 Ways New Relic Can Tell You Which Is Which](https://blog.newrelic.com/engineering/distributed-monolith-vs-microservices/) by [Chris McCarthy](https://blog.newrelic.com/author/chrismccarthy/)
-- [Building Microservices: Designing Fine-Grained Systems]
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices) by [Sam Newman](https://twitter.com/samnewman)
 - [Monolith to Microservices](https://www.goodreads.com/book/show/44144499-monolith-to-microservices) by [Sam Newman](https://twitter.com/samnewman)
 - [Microservices Patterns](https://www.goodreads.com/book/show/34372564-microservice-patterns) by [Chris Richardson](https://twitter.com/crichardson)
 
