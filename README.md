@@ -22,6 +22,7 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 ](https://medium.com/nick-tune-tech-strategy-blog/ddd-pattern-library-contexts-d6ae81f462ef) by [Nick Tune](https://twitter.com/ntcoding)
 - [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) by [Nick Tune](https://twitter.com/ntcoding)
 - [Strategic DDD Remote Collaboration Toolkit](https://medium.com/nick-tune-tech-strategy-blog/strategic-ddd-remote-collaboration-toolkit-ab3176f878aa) by [Nick Tune](https://twitter.com/ntcoding)
+- [Designing Autonomous Services and Teams Together](https://www.youtube.com/watch?v=JOQNJaXuNRE) by [Nick Tune](https://twitter.com/ntcoding)
 
 ## Microservices
 - [Distributed Monolith vs. Microservices Architecture: 4 Ways New Relic Can Tell You Which Is Which](https://blog.newrelic.com/engineering/distributed-monolith-vs-microservices/) by [Chris McCarthy](https://blog.newrelic.com/author/chrismccarthy/)
