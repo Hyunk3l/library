@@ -29,6 +29,8 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 - [Monolith to Microservices](https://www.goodreads.com/book/show/44144499-monolith-to-microservices) by [Sam Newman](https://twitter.com/samnewman)
 - [Microservices Patterns](https://www.goodreads.com/book/show/34372564-microservice-patterns) by [Chris Richardson](https://twitter.com/crichardson)
 - [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc) by [Nick Tune](https://twitter.com/ntcoding)
+- [Designing Event-First Microservices](https://www.infoq.com/presentations/microservices-events-first-design/) by [Jonas Bonér](https://twitter.com/jboner)
+- [Reactive microsystems](https://www.goodreads.com/book/show/36059748-reactive-microsystems) by [Jonas Bonér](https://twitter.com/jboner)
 
 ## Teams & Carrer path
 - [It’s the coordination, stupid](https://medium.com/dev-genius/its-the-coordination-stupid-f3581bbf25cd) by [Javier Lopez](https://twitter.com/javisan81)
