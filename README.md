@@ -32,6 +32,7 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 - [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc) by [Nick Tune](https://twitter.com/ntcoding)
 - [Designing Event-First Microservices](https://www.infoq.com/presentations/microservices-events-first-design/) by [Jonas Bonér](https://twitter.com/jboner)
 - [Reactive microsystems](https://www.goodreads.com/book/show/36059748-reactive-microsystems) by [Jonas Bonér](https://twitter.com/jboner)
+- [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.com/datadriveninvestor/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085) by [Dave Taubler](https://twitter.com/dtaubler)
 
 ## Teams & Carrer path
 - [It’s the coordination, stupid](https://medium.com/dev-genius/its-the-coordination-stupid-f3581bbf25cd) by [Javier Lopez](https://twitter.com/javisan81)
