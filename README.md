@@ -10,7 +10,7 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 - [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) by [Uncle Bob](https://twitter.com/unclebobmartin)
 - [The Clean coder](https://www.goodreads.com/book/show/10284614-the-clean-coder) by [Uncle Bob](https://twitter.com/unclebobmartin)
 
-## Carrer path
+## Career path
 - [Talking with Tech Leads](https://www.goodreads.com/book/show/23270194-talking-with-tech-leads) by [Pat Kua](https://twitter.com/patkua)
 
 ## CI/CD
