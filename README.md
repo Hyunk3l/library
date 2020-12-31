@@ -10,6 +10,9 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 - [Clean code](https://www.goodreads.com/book/show/3735293-clean-code) by [Uncle Bob](https://twitter.com/unclebobmartin)
 - [The Clean coder](https://www.goodreads.com/book/show/10284614-the-clean-coder) by [Uncle Bob](https://twitter.com/unclebobmartin)
 
+## Carrer path
+- [Talking with Tech Leads](https://www.goodreads.com/book/show/23270194-talking-with-tech-leads) by [Pat Kua](https://twitter.com/patkua)
+
 ## CI/CD
 - [Continuous Compliance](http://www.davefarley.net/?p=285) by [Dave Farley](https://twitter.com/davefarley77)
 
@@ -34,8 +37,9 @@ Collection of books, talks and blog posts I've read and I think are worth sharin
 - [Reactive microsystems](https://www.goodreads.com/book/show/36059748-reactive-microsystems) by [Jonas Bonér](https://twitter.com/jboner)
 - [If You’re Building Microservices, You Need to Understand What a Bounded Context is](https://medium.com/datadriveninvestor/if-youre-building-microservices-you-need-to-understand-what-a-bounded-context-is-30cbe51d5085) by [Dave Taubler](https://twitter.com/dtaubler)
 
-## Teams & Carrer path
+## Organizational Structure & Teams
 - [It’s the coordination, stupid](https://medium.com/dev-genius/its-the-coordination-stupid-f3581bbf25cd) by [Javier Lopez](https://twitter.com/javisan81)
-- [Talking with Tech Leads](https://www.goodreads.com/book/show/23270194-talking-with-tech-leads) by [Pat Kua](https://twitter.com/patkua)
 - [Mistakes and Discoveries While Cultivating Ownership](https://www.infoq.com/presentations/netflix-five-level-ownership/) by [Aaron Blohowiak](https://twitter.com/aaronblohowiak)
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies) by [Matthew Skelton](https://twitter.com/matthewpskelton) and [Manuel Pais](https://twitter.com/manupaisable)
+
 
